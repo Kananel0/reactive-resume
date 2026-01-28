@@ -21,40 +21,40 @@ msgstr ""
 #. js-lingui-explicit-id
 #: src/routes/dashboard/resumes/index.tsx
 msgid "Last Updated"
-msgstr ""
+msgstr "อัปเดตล่าสุด"
 
 #. js-lingui-explicit-id
 #: src/routes/dashboard/resumes/index.tsx
 msgid "Created"
-msgstr ""
+msgstr "สร้างเมื่อ"
 
 #. js-lingui-explicit-id
 #: src/routes/dashboard/resumes/index.tsx
 msgid "Name"
-msgstr ""
+msgstr "ชื่อ"
 
 #: src/routes/_home/-sections/hero.tsx
 msgid "(opens in new tab)"
-msgstr ""
+msgstr "(เปิดในแท็บใหม่)"
 
 #. placeholder {0}: section.items.length
 #: src/routes/builder/$resumeId/-sidebar/left/sections/custom.tsx
 msgid "{0, plural, one {# item} other {# items}}"
-msgstr ""
+msgstr "{0, plural, one {# รายการ} other {# รายการ}}"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/custom.tsx
 #: src/routes/builder/$resumeId/-sidebar/left/shared/section-menu.tsx
 msgid "{column, plural, one {# Column} other {# Columns}}"
-msgstr ""
+msgstr "{column, plural, one {# คอลัมน์} other {# คอลัมน์}}"
 
 #: src/routes/_home/-sections/hero.tsx
 msgid "<0>Finally,</0><1>A free and open-source resume builder</1>"
-msgstr ""
+msgstr "<0>ในที่สุด</0><1>เครื่องมือสร้างเรซูเม่ฟรีและโอเพนซอร์ส</1>"
 
 #: src/routes/_home/-sections/faq.tsx
 msgctxt "Every word needs to be wrapped in a tag"
 msgid "<0>Frequently</0><1>Asked</1><2>Questions</2>"
-msgstr ""
+msgstr "<0>คำถาม</0><1>ที่พบ</1><2>บ่อย</2>"
 
 #: src/routes/builder/$resumeId/-sidebar/right/sections/information.tsx
 msgid "<0>Thank you for using Reactive Resume! This app is a labor of love, created mostly in my spare time, with wonderful support from open-source contributors around the world.</0><1>If Reactive Resume has been helpful to you, and you'd like to help keep it free and open for everyone, please consider making a donation. Every little bit is appreciated!</1>"
@@ -62,23 +62,23 @@ msgstr ""
 
 #: src/dialogs/api-key/create.tsx
 msgid "1 month"
-msgstr ""
+msgstr "1 เดือน"
 
 #: src/dialogs/api-key/create.tsx
 msgid "1 year"
-msgstr ""
+msgstr "1 ปี"
 
 #: src/routes/_home/-sections/features.tsx
 msgid "12+ Templates"
-msgstr ""
+msgstr "12+ เทมเพลต"
 
 #: src/dialogs/api-key/create.tsx
 msgid "3 months"
-msgstr ""
+msgstr "3 เดือน"
 
 #: src/dialogs/api-key/create.tsx
 msgid "6 months"
-msgstr ""
+msgstr "6 เดือน"
 
 #: src/routes/dashboard/settings/profile.tsx
 msgid "A confirmation link has been sent to your current email address. Please check your inbox to confirm the change."
@@ -112,7 +112,7 @@ msgstr ""
 
 #: src/routes/builder/$resumeId/-sidebar/right/sections/page.tsx
 msgid "A4"
-msgstr ""
+msgstr "A4"
 
 #: src/routes/_home/-sections/faq.tsx
 msgid "Absolutely! You can export your resume to PDF with a single click. The exported PDF maintains all your formatting and styling perfectly."
@@ -124,88 +124,88 @@ msgstr ""
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/custom-fields.tsx
 msgid "Add a custom field"
-msgstr ""
+msgstr "เพิ่มฟิลด์ที่กำหนดเอง"
 
 #: src/components/input/url-input.tsx
 msgid "Add a label to the URL"
-msgstr ""
+msgstr "เพิ่มป้ายกำกับให้กับ URL"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/awards.tsx
 msgid "Add a new award"
-msgstr ""
+msgstr "เพิ่มรางวัลใหม่"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/certifications.tsx
 msgid "Add a new certification"
-msgstr ""
+msgstr "เพิ่มใบรับรองใหม่"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/custom.tsx
 msgid "Add a new custom section"
-msgstr ""
+msgstr "เพิ่มส่วนที่กำหนดเองใหม่"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/education.tsx
 msgid "Add a new education"
-msgstr ""
+msgstr "เพิ่มการศึกษาใหม่"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/experience.tsx
 msgid "Add a new experience"
-msgstr ""
+msgstr "เพิ่มประสบการณ์ใหม่"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/interests.tsx
 msgid "Add a new interest"
-msgstr ""
+msgstr "เพิ่มความสนใจใหม่"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/custom.tsx
 #: src/routes/builder/$resumeId/-sidebar/left/shared/section-menu.tsx
 msgid "Add a new item"
-msgstr ""
+msgstr "เพิ่มรายการใหม่"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/languages.tsx
 msgid "Add a new language"
-msgstr ""
+msgstr "เพิ่มภาษาใหม่"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/profiles.tsx
 msgid "Add a new profile"
-msgstr ""
+msgstr "เพิ่มโปรไฟล์ใหม่"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/projects.tsx
 msgid "Add a new project"
-msgstr ""
+msgstr "เพิ่มโครงการใหม่"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/publications.tsx
 msgid "Add a new publication"
-msgstr ""
+msgstr "เพิ่มสิ่งพิมพ์ใหม่"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/references.tsx
 msgid "Add a new reference"
-msgstr ""
+msgstr "เพิ่มผู้อ้างอิงใหม่"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/skills.tsx
 msgid "Add a new skill"
-msgstr ""
+msgstr "เพิ่มทักษะใหม่"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/volunteer.tsx
 msgid "Add a new volunteer experience"
-msgstr ""
+msgstr "เพิ่มประสบการณ์อาสาสมัครใหม่"
 
 #: src/components/input/rich-input.tsx
 msgid "Add Column After"
-msgstr ""
+msgstr "เพิ่มคอลัมน์ด้านหลัง"
 
 #: src/components/input/rich-input.tsx
 msgid "Add Column Before"
-msgstr ""
+msgstr "เพิ่มคอลัมน์ด้านหน้า"
 
 #: src/routes/builder/$resumeId/-sidebar/right/sections/layout/pages.tsx
 msgid "Add Page"
-msgstr ""
+msgstr "เพิ่มหน้า"
 
 #: src/components/input/rich-input.tsx
 msgid "Add Row After"
-msgstr ""
+msgstr "เพิ่มแถวด้านหลัง"
 
 #: src/components/input/rich-input.tsx
 msgid "Add Row Before"
-msgstr ""
+msgstr "เพิ่มแถวด้านหน้า"
 
 #. placeholder {0}: passkey.createdAt.toLocaleDateString()
 #: src/routes/dashboard/settings/authentication/-components/passkeys.tsx
@@ -223,7 +223,7 @@ msgstr ""
 #: src/dialogs/resume/import.tsx
 #: src/dialogs/resume/import.tsx
 msgid "AI"
-msgstr ""
+msgstr "AI"
 
 #: src/utils/locale.ts
 msgid "Albanian"
@@ -279,7 +279,7 @@ msgstr ""
 #: src/routes/dashboard/-components/sidebar.tsx
 #: src/routes/dashboard/settings/api-keys.tsx
 msgid "API Keys"
-msgstr ""
+msgstr "คีย์ API"
 
 #: src/routes/dashboard/settings/api-keys.tsx
 msgid "API Reference"
@@ -358,7 +358,7 @@ msgstr ""
 
 #: src/utils/resume/section.tsx
 msgid "Awards"
-msgstr ""
+msgstr "รางวัล"
 
 #: src/utils/locale.ts
 msgid "Azerbaijani"
@@ -399,7 +399,7 @@ msgstr ""
 
 #: src/components/input/rich-input.tsx
 msgid "Bold"
-msgstr ""
+msgstr "ตัวหนา"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/picture.tsx
 msgid "Border Radius"
@@ -468,7 +468,7 @@ msgstr ""
 #: src/routes/dashboard/settings/danger-zone.tsx
 #: src/routes/dashboard/settings/profile.tsx
 msgid "Cancel"
-msgstr ""
+msgstr "ยกเลิก"
 
 #: src/utils/locale.ts
 msgid "Catalan"
@@ -484,7 +484,7 @@ msgstr ""
 
 #: src/utils/resume/section.tsx
 msgid "Certifications"
-msgstr ""
+msgstr "ใบรับรอง"
 
 #: src/routes/_home/-sections/header.tsx
 msgid "Change language"
@@ -504,7 +504,7 @@ msgstr ""
 
 #: src/routes/_home/-sections/footer.tsx
 msgid "Changelog"
-msgstr ""
+msgstr "บันทึกการเปลี่ยนแปลง"
 
 #: src/routes/auth/forgot-password.tsx
 msgid "Check your email for a link to reset your password."
@@ -541,7 +541,7 @@ msgstr ""
 #: src/routes/builder/$resumeId/-sidebar/left/sections/custom.tsx
 #: src/routes/builder/$resumeId/-sidebar/left/shared/section-menu.tsx
 msgid "Columns"
-msgstr ""
+msgstr "คอลัมน์"
 
 #: src/routes/_home/-sections/footer.tsx
 msgid "Community"
@@ -549,7 +549,7 @@ msgstr ""
 
 #: src/dialogs/resume/sections/experience.tsx
 msgid "Company"
-msgstr ""
+msgstr "บริษัท"
 
 #: src/routes/_home/-sections/features.tsx
 msgid "Completely free, forever, no hidden costs."
@@ -560,7 +560,7 @@ msgstr ""
 #: src/routes/builder/$resumeId/-sidebar/right/sections/sharing.tsx
 #: src/routes/dashboard/settings/danger-zone.tsx
 msgid "Confirm"
-msgstr ""
+msgstr "ยืนยัน"
 
 #: src/routes/dashboard/settings/authentication/-components/social-provider.tsx
 msgid "Connect"
@@ -571,7 +571,7 @@ msgstr ""
 #: src/dialogs/auth/enable-two-factor.tsx
 #: src/routes/auth/register.tsx
 msgid "Continue"
-msgstr ""
+msgstr "ดำเนินการต่อ"
 
 #: src/routes/dashboard/resumes/-components/cards/import-card.tsx
 #: src/routes/dashboard/resumes/-components/list-view.tsx
@@ -588,7 +588,7 @@ msgstr ""
 
 #: src/dialogs/auth/enable-two-factor.tsx
 msgid "Copy"
-msgstr ""
+msgstr "คัดลอก"
 
 #: src/dialogs/auth/enable-two-factor.tsx
 msgid "Copy and store these backup codes in case you lose your device."
@@ -622,7 +622,7 @@ msgstr ""
 #: src/dialogs/resume/sections/skill.tsx
 #: src/dialogs/resume/sections/volunteer.tsx
 msgid "Create"
-msgstr ""
+msgstr "สร้าง"
 
 #: src/routes/auth/register.tsx
 msgid "Create a new account"
@@ -720,7 +720,7 @@ msgstr ""
 
 #: src/utils/resume/section.tsx
 msgid "Custom Sections"
-msgstr ""
+msgstr "ส่วนที่กำหนดเอง"
 
 #: src/utils/locale.ts
 msgid "Czech"
@@ -754,7 +754,7 @@ msgstr ""
 #: src/dialogs/resume/sections/certification.tsx
 #: src/dialogs/resume/sections/publication.tsx
 msgid "Date"
-msgstr ""
+msgstr "วันที่"
 
 #: src/dialogs/resume/sections/education.tsx
 msgid "Degree"
@@ -767,11 +767,11 @@ msgstr ""
 #: src/routes/dashboard/resumes/-components/menus/dropdown-menu.tsx
 #: src/routes/dashboard/settings/api-keys.tsx
 msgid "Delete"
-msgstr ""
+msgstr "ลบ"
 
 #: src/routes/dashboard/settings/danger-zone.tsx
 msgid "Delete Account"
-msgstr ""
+msgstr "ลบบัญชี"
 
 #: src/components/input/rich-input.tsx
 msgid "Delete Column"
@@ -816,11 +816,11 @@ msgstr ""
 #: src/dialogs/resume/sections/reference.tsx
 #: src/dialogs/resume/sections/volunteer.tsx
 msgid "Description"
-msgstr ""
+msgstr "คำอธิบาย"
 
 #: src/utils/resume/section.tsx
 msgid "Design"
-msgstr ""
+msgstr "ออกแบบ"
 
 #: src/dialogs/auth/disable-two-factor.tsx
 #: src/routes/dashboard/settings/authentication/-components/two-factor.tsx
@@ -845,7 +845,7 @@ msgstr ""
 
 #: src/routes/_home/-sections/footer.tsx
 msgid "Discord"
-msgstr ""
+msgstr "Discord"
 
 #: src/routes/_home/-sections/footer.tsx
 #: src/routes/builder/$resumeId/-sidebar/right/sections/information.tsx
@@ -863,7 +863,7 @@ msgstr ""
 #: src/dialogs/auth/enable-two-factor.tsx
 #: src/routes/$username/$slug.tsx
 msgid "Download"
-msgstr ""
+msgstr "ดาวน์โหลด"
 
 #: src/routes/builder/$resumeId/-sidebar/right/sections/export.tsx
 msgid "Download a copy of your resume in JSON format. Use this file for backup or to import your resume into other applications, including AI assistants."
@@ -1096,7 +1096,7 @@ msgstr ""
 #: src/routes/builder/$resumeId/-sidebar/right/sections/page.tsx
 msgctxt "Page Format (A4, Letter or Free-Form)"
 msgid "Format"
-msgstr ""
+msgstr "รูปแบบ"
 
 #: src/routes/_home/-sections/features.tsx
 msgid "Free"
@@ -1104,7 +1104,7 @@ msgstr ""
 
 #: src/routes/builder/$resumeId/-sidebar/right/sections/page.tsx
 msgid "Free-Form"
-msgstr ""
+msgstr "รูปแบบอิสระ"
 
 #: src/utils/locale.ts
 msgid "French"
@@ -1149,7 +1149,7 @@ msgstr ""
 
 #: src/routes/dashboard/resumes/index.tsx
 msgid "Grid"
-msgstr ""
+msgstr "ตาราง"
 
 #: src/routes/_home/-sections/donate.tsx
 msgid "Grow the Team"
@@ -1390,7 +1390,7 @@ msgstr ""
 
 #: src/components/resume/preview.tsx
 msgid "Learn more about how to fit content on a page"
-msgstr ""
+msgstr "เรียนรู้เพิ่มเติมเกี่ยวกับวิธีจัดเนื้อหาให้พอดีกับหน้า"
 
 #: src/routes/builder/$resumeId/-sidebar/left/shared/section-menu.tsx
 msgid "Leave empty to reset the title to the original."
@@ -1402,7 +1402,7 @@ msgstr ""
 
 #: src/routes/builder/$resumeId/-sidebar/right/sections/page.tsx
 msgid "Letter"
-msgstr ""
+msgstr "จดหมาย"
 
 #: src/dialogs/resume/sections/language.tsx
 #: src/dialogs/resume/sections/skill.tsx
@@ -1438,7 +1438,7 @@ msgstr ""
 
 #: src/routes/dashboard/resumes/index.tsx
 msgid "List"
-msgstr ""
+msgstr "รายการ"
 
 #: src/utils/locale.ts
 msgid "Lithuanian"
@@ -1527,7 +1527,7 @@ msgstr ""
 #: src/routes/builder/$resumeId/-sidebar/left/sections/basics.tsx
 #: src/routes/dashboard/settings/profile.tsx
 msgid "Name"
-msgstr ""
+msgstr "ชื่อ"
 
 #: src/utils/locale.ts
 msgid "Nepali"
@@ -1747,7 +1747,7 @@ msgstr ""
 
 #: src/components/input/chip-input.tsx
 msgid "Press <0>{RETURN_KEY}</0> or <1>{COMMA_KEY}</1> to add or save the current keyword."
-msgstr ""
+msgstr "กด <0>{RETURN_KEY}</0> หรือ <1>{COMMA_KEY}</1> เพื่อเพิ่มหรือบันทึกคีย์เวิร์ดปัจจุบัน"
 
 #: src/routes/builder/$resumeId/-sidebar/right/sections/design.tsx
 msgid "Primary Color"
@@ -1831,7 +1831,7 @@ msgstr ""
 #: src/routes/builder/$resumeId/-components/dock.tsx
 msgctxt "'Ctrl' may be replaced with the locale-specific equivalent (e.g. 'Strg' for QWERTZ layouts)."
 msgid "Redo (Ctrl+Y)"
-msgstr ""
+msgstr "ทำซ้ำ (Ctrl+Y)"
 
 #: src/utils/resume/section.tsx
 msgid "References"
@@ -1867,7 +1867,7 @@ msgstr ""
 
 #: src/routes/_home/-sections/footer.tsx
 msgid "Report an issue"
-msgstr ""
+msgstr "รายงานปัญหา"
 
 #: src/routes/dashboard/settings/profile.tsx
 msgid "Resend verification email"
@@ -2144,7 +2144,7 @@ msgstr ""
 
 #: src/routes/_home/-sections/footer.tsx
 msgid "Sponsorships"
-msgstr ""
+msgstr "การสนับสนุน"
 
 #: src/components/level/combobox.tsx
 #: src/routes/builder/$resumeId/-sidebar/left/sections/picture.tsx
@@ -2179,7 +2179,7 @@ msgstr ""
 
 #: src/routes/_home/-sections/footer.tsx
 msgid "Subreddit"
-msgstr ""
+msgstr "Subreddit"
 
 #: src/utils/resume/section.tsx
 msgid "Summary"
@@ -2267,7 +2267,7 @@ msgstr ""
 
 #: src/components/resume/preview.tsx
 msgid "The content is too tall for this page, this may cause undesirable results when exporting to PDF."
-msgstr ""
+msgstr "เนื้อหาสูงเกินไปสำหรับหน้านี้ อาจทำให้เกิดผลลัพธ์ที่ไม่พึงประสงค์เมื่อส่งออกเป็น PDF"
 
 #: src/routes/auth/resume-password.tsx
 msgid "The password you entered is incorrect"
@@ -2457,7 +2457,7 @@ msgstr ""
 #: src/routes/builder/$resumeId/-components/dock.tsx
 msgctxt "'Ctrl' may be replaced with the locale-specific equivalent (e.g. 'Strg' for QWERTZ layouts)."
 msgid "Undo (Ctrl+Z)"
-msgstr ""
+msgstr "เลิกทำ (Ctrl+Z)"
 
 #: src/routes/_home/-sections/features.tsx
 msgid "Unlimited Resumes"

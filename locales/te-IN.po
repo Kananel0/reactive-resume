@@ -21,40 +21,40 @@ msgstr ""
 #. js-lingui-explicit-id
 #: src/routes/dashboard/resumes/index.tsx
 msgid "Last Updated"
-msgstr ""
+msgstr "చివరిగా నవీకరించబడింది"
 
 #. js-lingui-explicit-id
 #: src/routes/dashboard/resumes/index.tsx
 msgid "Created"
-msgstr ""
+msgstr "సృష్టించబడింది"
 
 #. js-lingui-explicit-id
 #: src/routes/dashboard/resumes/index.tsx
 msgid "Name"
-msgstr ""
+msgstr "పేరు"
 
 #: src/routes/_home/-sections/hero.tsx
 msgid "(opens in new tab)"
-msgstr ""
+msgstr "(కొత్త ట్యాబ్‌లో తెరుచుకుంటుంది)"
 
 #. placeholder {0}: section.items.length
 #: src/routes/builder/$resumeId/-sidebar/left/sections/custom.tsx
 msgid "{0, plural, one {# item} other {# items}}"
-msgstr ""
+msgstr "{0, plural, one {# అంశం} other {# అంశాలు}}"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/custom.tsx
 #: src/routes/builder/$resumeId/-sidebar/left/shared/section-menu.tsx
 msgid "{column, plural, one {# Column} other {# Columns}}"
-msgstr ""
+msgstr "{column, plural, one {# నిలువు వరుస} other {# నిలువు వరుసలు}}"
 
 #: src/routes/_home/-sections/hero.tsx
 msgid "<0>Finally,</0><1>A free and open-source resume builder</1>"
-msgstr ""
+msgstr "<0>చివరగా,</0><1>ఉచిత మరియు ఓపెన్-సోర్స్ రెజ్యూమ్ బిల్డర్</1>"
 
 #: src/routes/_home/-sections/faq.tsx
 msgctxt "Every word needs to be wrapped in a tag"
 msgid "<0>Frequently</0><1>Asked</1><2>Questions</2>"
-msgstr ""
+msgstr "<0>తరచుగా</0><1>అడిగే</1><2>ప్రశ్నలు</2>"
 
 #: src/routes/builder/$resumeId/-sidebar/right/sections/information.tsx
 msgid "<0>Thank you for using Reactive Resume! This app is a labor of love, created mostly in my spare time, with wonderful support from open-source contributors around the world.</0><1>If Reactive Resume has been helpful to you, and you'd like to help keep it free and open for everyone, please consider making a donation. Every little bit is appreciated!</1>"
@@ -62,23 +62,23 @@ msgstr ""
 
 #: src/dialogs/api-key/create.tsx
 msgid "1 month"
-msgstr ""
+msgstr "1 నెల"
 
 #: src/dialogs/api-key/create.tsx
 msgid "1 year"
-msgstr ""
+msgstr "1 సంవత్సరం"
 
 #: src/routes/_home/-sections/features.tsx
 msgid "12+ Templates"
-msgstr ""
+msgstr "12+ టెంప్లేట్‌లు"
 
 #: src/dialogs/api-key/create.tsx
 msgid "3 months"
-msgstr ""
+msgstr "3 నెలలు"
 
 #: src/dialogs/api-key/create.tsx
 msgid "6 months"
-msgstr ""
+msgstr "6 నెలలు"
 
 #: src/routes/dashboard/settings/profile.tsx
 msgid "A confirmation link has been sent to your current email address. Please check your inbox to confirm the change."
@@ -112,7 +112,7 @@ msgstr ""
 
 #: src/routes/builder/$resumeId/-sidebar/right/sections/page.tsx
 msgid "A4"
-msgstr ""
+msgstr "A4"
 
 #: src/routes/_home/-sections/faq.tsx
 msgid "Absolutely! You can export your resume to PDF with a single click. The exported PDF maintains all your formatting and styling perfectly."
@@ -124,88 +124,88 @@ msgstr ""
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/custom-fields.tsx
 msgid "Add a custom field"
-msgstr ""
+msgstr "అనుకూల ఫీల్డ్‌ను జోడించండి"
 
 #: src/components/input/url-input.tsx
 msgid "Add a label to the URL"
-msgstr ""
+msgstr "URLకి లేబుల్‌ను జోడించండి"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/awards.tsx
 msgid "Add a new award"
-msgstr ""
+msgstr "కొత్త అవార్డును జోడించండి"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/certifications.tsx
 msgid "Add a new certification"
-msgstr ""
+msgstr "కొత్త సర్టిఫికేషన్‌ను జోడించండి"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/custom.tsx
 msgid "Add a new custom section"
-msgstr ""
+msgstr "కొత్త అనుకూల విభాగాన్ని జోడించండి"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/education.tsx
 msgid "Add a new education"
-msgstr ""
+msgstr "కొత్త విద్యను జోడించండి"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/experience.tsx
 msgid "Add a new experience"
-msgstr ""
+msgstr "కొత్త అనుభవాన్ని జోడించండి"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/interests.tsx
 msgid "Add a new interest"
-msgstr ""
+msgstr "కొత్త ఆసక్తిని జోడించండి"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/custom.tsx
 #: src/routes/builder/$resumeId/-sidebar/left/shared/section-menu.tsx
 msgid "Add a new item"
-msgstr ""
+msgstr "కొత్త అంశాన్ని జోడించండి"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/languages.tsx
 msgid "Add a new language"
-msgstr ""
+msgstr "కొత్త భాషను జోడించండి"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/profiles.tsx
 msgid "Add a new profile"
-msgstr ""
+msgstr "కొత్త ప్రొఫైల్‌ను జోడించండి"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/projects.tsx
 msgid "Add a new project"
-msgstr ""
+msgstr "కొత్త ప్రాజెక్ట్‌ను జోడించండి"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/publications.tsx
 msgid "Add a new publication"
-msgstr ""
+msgstr "కొత్త ప్రచురణను జోడించండి"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/references.tsx
 msgid "Add a new reference"
-msgstr ""
+msgstr "కొత్త రిఫరెన్స్‌ను జోడించండి"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/skills.tsx
 msgid "Add a new skill"
-msgstr ""
+msgstr "కొత్త నైపుణ్యాన్ని జోడించండి"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/volunteer.tsx
 msgid "Add a new volunteer experience"
-msgstr ""
+msgstr "కొత్త వాలంటీర్ అనుభవాన్ని జోడించండి"
 
 #: src/components/input/rich-input.tsx
 msgid "Add Column After"
-msgstr ""
+msgstr "తర్వాత నిలువు వరుసను జోడించండి"
 
 #: src/components/input/rich-input.tsx
 msgid "Add Column Before"
-msgstr ""
+msgstr "ముందు నిలువు వరుసను జోడించండి"
 
 #: src/routes/builder/$resumeId/-sidebar/right/sections/layout/pages.tsx
 msgid "Add Page"
-msgstr ""
+msgstr "పేజీని జోడించండి"
 
 #: src/components/input/rich-input.tsx
 msgid "Add Row After"
-msgstr ""
+msgstr "తర్వాత వరుసను జోడించండి"
 
 #: src/components/input/rich-input.tsx
 msgid "Add Row Before"
-msgstr ""
+msgstr "ముందు వరుసను జోడించండి"
 
 #. placeholder {0}: passkey.createdAt.toLocaleDateString()
 #: src/routes/dashboard/settings/authentication/-components/passkeys.tsx
@@ -223,7 +223,7 @@ msgstr ""
 #: src/dialogs/resume/import.tsx
 #: src/dialogs/resume/import.tsx
 msgid "AI"
-msgstr ""
+msgstr "AI"
 
 #: src/utils/locale.ts
 msgid "Albanian"
@@ -279,7 +279,7 @@ msgstr ""
 #: src/routes/dashboard/-components/sidebar.tsx
 #: src/routes/dashboard/settings/api-keys.tsx
 msgid "API Keys"
-msgstr ""
+msgstr "API కీలు"
 
 #: src/routes/dashboard/settings/api-keys.tsx
 msgid "API Reference"
@@ -358,7 +358,7 @@ msgstr ""
 
 #: src/utils/resume/section.tsx
 msgid "Awards"
-msgstr ""
+msgstr "అవార్డులు"
 
 #: src/utils/locale.ts
 msgid "Azerbaijani"
@@ -399,7 +399,7 @@ msgstr ""
 
 #: src/components/input/rich-input.tsx
 msgid "Bold"
-msgstr ""
+msgstr "బోల్డ్"
 
 #: src/routes/builder/$resumeId/-sidebar/left/sections/picture.tsx
 msgid "Border Radius"
@@ -468,7 +468,7 @@ msgstr ""
 #: src/routes/dashboard/settings/danger-zone.tsx
 #: src/routes/dashboard/settings/profile.tsx
 msgid "Cancel"
-msgstr ""
+msgstr "రద్దు చేయండి"
 
 #: src/utils/locale.ts
 msgid "Catalan"
@@ -484,7 +484,7 @@ msgstr ""
 
 #: src/utils/resume/section.tsx
 msgid "Certifications"
-msgstr ""
+msgstr "సర్టిఫికేషన్‌లు"
 
 #: src/routes/_home/-sections/header.tsx
 msgid "Change language"
@@ -504,7 +504,7 @@ msgstr ""
 
 #: src/routes/_home/-sections/footer.tsx
 msgid "Changelog"
-msgstr ""
+msgstr "మార్పుల లాగ్"
 
 #: src/routes/auth/forgot-password.tsx
 msgid "Check your email for a link to reset your password."
@@ -541,7 +541,7 @@ msgstr ""
 #: src/routes/builder/$resumeId/-sidebar/left/sections/custom.tsx
 #: src/routes/builder/$resumeId/-sidebar/left/shared/section-menu.tsx
 msgid "Columns"
-msgstr ""
+msgstr "నిలువు వరుసలు"
 
 #: src/routes/_home/-sections/footer.tsx
 msgid "Community"
@@ -549,7 +549,7 @@ msgstr ""
 
 #: src/dialogs/resume/sections/experience.tsx
 msgid "Company"
-msgstr ""
+msgstr "కంపెనీ"
 
 #: src/routes/_home/-sections/features.tsx
 msgid "Completely free, forever, no hidden costs."
@@ -560,7 +560,7 @@ msgstr ""
 #: src/routes/builder/$resumeId/-sidebar/right/sections/sharing.tsx
 #: src/routes/dashboard/settings/danger-zone.tsx
 msgid "Confirm"
-msgstr ""
+msgstr "నిర్ధారించండి"
 
 #: src/routes/dashboard/settings/authentication/-components/social-provider.tsx
 msgid "Connect"
@@ -571,7 +571,7 @@ msgstr ""
 #: src/dialogs/auth/enable-two-factor.tsx
 #: src/routes/auth/register.tsx
 msgid "Continue"
-msgstr ""
+msgstr "కొనసాగించండి"
 
 #: src/routes/dashboard/resumes/-components/cards/import-card.tsx
 #: src/routes/dashboard/resumes/-components/list-view.tsx
@@ -588,7 +588,7 @@ msgstr ""
 
 #: src/dialogs/auth/enable-two-factor.tsx
 msgid "Copy"
-msgstr ""
+msgstr "కాపీ"
 
 #: src/dialogs/auth/enable-two-factor.tsx
 msgid "Copy and store these backup codes in case you lose your device."
@@ -622,7 +622,7 @@ msgstr ""
 #: src/dialogs/resume/sections/skill.tsx
 #: src/dialogs/resume/sections/volunteer.tsx
 msgid "Create"
-msgstr ""
+msgstr "సృష్టించండి"
 
 #: src/routes/auth/register.tsx
 msgid "Create a new account"
@@ -720,7 +720,7 @@ msgstr ""
 
 #: src/utils/resume/section.tsx
 msgid "Custom Sections"
-msgstr ""
+msgstr "అనుకూల విభాగాలు"
 
 #: src/utils/locale.ts
 msgid "Czech"
@@ -754,7 +754,7 @@ msgstr ""
 #: src/dialogs/resume/sections/certification.tsx
 #: src/dialogs/resume/sections/publication.tsx
 msgid "Date"
-msgstr ""
+msgstr "తేదీ"
 
 #: src/dialogs/resume/sections/education.tsx
 msgid "Degree"
@@ -767,11 +767,11 @@ msgstr ""
 #: src/routes/dashboard/resumes/-components/menus/dropdown-menu.tsx
 #: src/routes/dashboard/settings/api-keys.tsx
 msgid "Delete"
-msgstr ""
+msgstr "తొలగించండి"
 
 #: src/routes/dashboard/settings/danger-zone.tsx
 msgid "Delete Account"
-msgstr ""
+msgstr "ఖాతాను తొలగించండి"
 
 #: src/components/input/rich-input.tsx
 msgid "Delete Column"
@@ -816,11 +816,11 @@ msgstr ""
 #: src/dialogs/resume/sections/reference.tsx
 #: src/dialogs/resume/sections/volunteer.tsx
 msgid "Description"
-msgstr ""
+msgstr "వివరణ"
 
 #: src/utils/resume/section.tsx
 msgid "Design"
-msgstr ""
+msgstr "డిజైన్"
 
 #: src/dialogs/auth/disable-two-factor.tsx
 #: src/routes/dashboard/settings/authentication/-components/two-factor.tsx
@@ -845,7 +845,7 @@ msgstr ""
 
 #: src/routes/_home/-sections/footer.tsx
 msgid "Discord"
-msgstr ""
+msgstr "Discord"
 
 #: src/routes/_home/-sections/footer.tsx
 #: src/routes/builder/$resumeId/-sidebar/right/sections/information.tsx
@@ -863,7 +863,7 @@ msgstr ""
 #: src/dialogs/auth/enable-two-factor.tsx
 #: src/routes/$username/$slug.tsx
 msgid "Download"
-msgstr ""
+msgstr "డౌన్‌లోడ్"
 
 #: src/routes/builder/$resumeId/-sidebar/right/sections/export.tsx
 msgid "Download a copy of your resume in JSON format. Use this file for backup or to import your resume into other applications, including AI assistants."
@@ -1096,7 +1096,7 @@ msgstr ""
 #: src/routes/builder/$resumeId/-sidebar/right/sections/page.tsx
 msgctxt "Page Format (A4, Letter or Free-Form)"
 msgid "Format"
-msgstr ""
+msgstr "ఫార్మాట్"
 
 #: src/routes/_home/-sections/features.tsx
 msgid "Free"
@@ -1104,7 +1104,7 @@ msgstr ""
 
 #: src/routes/builder/$resumeId/-sidebar/right/sections/page.tsx
 msgid "Free-Form"
-msgstr ""
+msgstr "స్వేచ్ఛా రూపం"
 
 #: src/utils/locale.ts
 msgid "French"
@@ -1149,7 +1149,7 @@ msgstr ""
 
 #: src/routes/dashboard/resumes/index.tsx
 msgid "Grid"
-msgstr ""
+msgstr "గ్రిడ్"
 
 #: src/routes/_home/-sections/donate.tsx
 msgid "Grow the Team"
@@ -1390,7 +1390,7 @@ msgstr ""
 
 #: src/components/resume/preview.tsx
 msgid "Learn more about how to fit content on a page"
-msgstr ""
+msgstr "పేజీలో కంటెంట్‌ను ఎలా సరిపోల్చాలో మరింత తెలుసుకోండి"
 
 #: src/routes/builder/$resumeId/-sidebar/left/shared/section-menu.tsx
 msgid "Leave empty to reset the title to the original."
@@ -1402,7 +1402,7 @@ msgstr ""
 
 #: src/routes/builder/$resumeId/-sidebar/right/sections/page.tsx
 msgid "Letter"
-msgstr ""
+msgstr "లేఖ"
 
 #: src/dialogs/resume/sections/language.tsx
 #: src/dialogs/resume/sections/skill.tsx
@@ -1438,7 +1438,7 @@ msgstr ""
 
 #: src/routes/dashboard/resumes/index.tsx
 msgid "List"
-msgstr ""
+msgstr "జాబితా"
 
 #: src/utils/locale.ts
 msgid "Lithuanian"
@@ -1527,7 +1527,7 @@ msgstr ""
 #: src/routes/builder/$resumeId/-sidebar/left/sections/basics.tsx
 #: src/routes/dashboard/settings/profile.tsx
 msgid "Name"
-msgstr ""
+msgstr "పేరు"
 
 #: src/utils/locale.ts
 msgid "Nepali"
@@ -1747,7 +1747,7 @@ msgstr ""
 
 #: src/components/input/chip-input.tsx
 msgid "Press <0>{RETURN_KEY}</0> or <1>{COMMA_KEY}</1> to add or save the current keyword."
-msgstr ""
+msgstr "ప్రస్తుత కీవర్డ్‌ను జోడించడానికి లేదా సేవ్ చేయడానికి <0>{RETURN_KEY}</0> లేదా <1>{COMMA_KEY}</1> నొక్కండి."
 
 #: src/routes/builder/$resumeId/-sidebar/right/sections/design.tsx
 msgid "Primary Color"
@@ -1831,7 +1831,7 @@ msgstr ""
 #: src/routes/builder/$resumeId/-components/dock.tsx
 msgctxt "'Ctrl' may be replaced with the locale-specific equivalent (e.g. 'Strg' for QWERTZ layouts)."
 msgid "Redo (Ctrl+Y)"
-msgstr ""
+msgstr "తిరిగి చేయండి (Ctrl+Y)"
 
 #: src/utils/resume/section.tsx
 msgid "References"
@@ -1867,7 +1867,7 @@ msgstr ""
 
 #: src/routes/_home/-sections/footer.tsx
 msgid "Report an issue"
-msgstr ""
+msgstr "సమస్యను నివేదించండి"
 
 #: src/routes/dashboard/settings/profile.tsx
 msgid "Resend verification email"
@@ -2144,7 +2144,7 @@ msgstr ""
 
 #: src/routes/_home/-sections/footer.tsx
 msgid "Sponsorships"
-msgstr ""
+msgstr "స్పాన్సర్‌షిప్‌లు"
 
 #: src/components/level/combobox.tsx
 #: src/routes/builder/$resumeId/-sidebar/left/sections/picture.tsx
@@ -2179,7 +2179,7 @@ msgstr ""
 
 #: src/routes/_home/-sections/footer.tsx
 msgid "Subreddit"
-msgstr ""
+msgstr "Subreddit"
 
 #: src/utils/resume/section.tsx
 msgid "Summary"
@@ -2267,7 +2267,7 @@ msgstr ""
 
 #: src/components/resume/preview.tsx
 msgid "The content is too tall for this page, this may cause undesirable results when exporting to PDF."
-msgstr ""
+msgstr "ఈ పేజీకి కంటెంట్ చాలా ఎత్తుగా ఉంది, PDF కి ఎగుమతి చేసేటప్పుడు అవాంఛనీయ ఫలితాలకు కారణం కావచ్చు."
 
 #: src/routes/auth/resume-password.tsx
 msgid "The password you entered is incorrect"
@@ -2457,7 +2457,7 @@ msgstr ""
 #: src/routes/builder/$resumeId/-components/dock.tsx
 msgctxt "'Ctrl' may be replaced with the locale-specific equivalent (e.g. 'Strg' for QWERTZ layouts)."
 msgid "Undo (Ctrl+Z)"
-msgstr ""
+msgstr "చర్యరద్దు (Ctrl+Z)"
 
 #: src/routes/_home/-sections/features.tsx
 msgid "Unlimited Resumes"
