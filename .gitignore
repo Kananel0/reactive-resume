@@ -1,5 +1,4 @@
 dist
-.env*
 /data
 .nitro
 .output
@@ -17,3 +16,4 @@ public/sw.js.map
 scripts/**/*.json
 public/workbox-*.js
 public/workbox-*.js.map
+config.bat
